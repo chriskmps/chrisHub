@@ -1,3 +1,5 @@
+//By Christian Kempis
+
 package chrisgsr.ckempisasgnone;
 
 import android.os.Bundle;
